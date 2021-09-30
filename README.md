@@ -5,15 +5,15 @@ Linh's data science projects
 
 # [Project 1](https://github.com/mailinh84/house-price-prediction/blob/master/housesales.ipynb)
 * This is for testing only, the link should be changed to the correct project
- **How to structure your answer**
+## How to structure your answer
 * Goal: Why did you or co. choose to work on this project? What is the problem?
 * More context: When the problem happen, how long does it exist?
 * Impact: Did you or co. achieve sth from that project?
-Example:
+## Example:
 * Goal: improving customer retention
 * More context: predict ETA for shipments
 * Impact: Improved customer retention by 50%
-Full sentence:
+## Full sentence:
 The most interesting data science project I have done last year was the project that aims at improving the customer retention by delivering a new feature of our app. The new feature was to predict the estimate time of arrival for shipments. It was a 6- month- project and we were able to improve customer retention by 50%.
 (Ask the interviewer) Do you want me to provide more context or dive into the details of the project?
 
