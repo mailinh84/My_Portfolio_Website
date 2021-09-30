@@ -26,7 +26,7 @@ Continue by:
 Continue by:
 * Interesting findings
 
- ![](https://github.com/mailinh84/My_Portfolio_Website_Test/blob/main/Images/DA.jfif)
+ ![](/Images/DA.jfif)
 
 
 
@@ -35,4 +35,4 @@ This is for testing only, the link should be changed to the correct project
 Decribe about the project
 What data is used
 
-![](https://github.com/mailinh84/My_Portfolio_Website_Test/blob/main/Images/Growth%20pic.jfif)
+![](/Images/Growth%20pic.jfif)
