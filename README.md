@@ -8,7 +8,7 @@ Linh's data science projects
 * Decribe about the project
 * What data is used
 
- ![](https://github.com/mailinh84/My_Portfolio_Website/blob/main/Images/Bedrooms.png)
+ ![](/Images/Bedrooms.png)
 
 
 
@@ -17,4 +17,4 @@ This is for testing only, the link should be changed to the correct project
 Decribe about the project
 What data is used
 
-![](https://github.com/mailinh84/My_Portfolio_Website/blob/main/Images/Price%20vs%20square%20feet.png)
+![](/Images/Price%20vs%20square%20feet.png)
