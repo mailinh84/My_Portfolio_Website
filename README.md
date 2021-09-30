@@ -1,4 +1,4 @@
-# My_Portfolio_Website
+# My_Portfolio_Website_Test
 Linh's data science projects
 # This is the place for showing the projects
 
@@ -6,9 +6,10 @@ Linh's data science projects
 # [Project 1](https://github.com/mailinh84/house-price-prediction/blob/master/housesales.ipynb)
 * This is for testing only, the link should be changed to the correct project
 ## How to structure your answer
-* Goal: Why did you or co. choose to work on this project? What is the problem?
-* More context: When the problem happen, how long does it exist?
+* Goal: Why did you or co. choose to work on this project? What is the problem? More context: When the problem happen, how long does it exist?
 * Impact: Did you or co. achieve sth from that project?
+* Challenges
+* Interesting findings
 ## Example:
 * Goal: improving customer retention
 * More context: predict ETA for shipments
@@ -22,6 +23,8 @@ Continue by:
 * Technical challenges can be: define success metrics, obtain data,deal with big dataset, process data, model training and deployment.
 * Non-technical challenges (project management, leadership,...)
 
+Continue by:
+* Interesting findings
 
  ![](https://github.com/mailinh84/My_Portfolio_Website_Test/blob/main/Images/DA.jfif)
 
