@@ -10,6 +10,7 @@ Linh's data science projects
 * Impact: Did you or co. achieve sth from that project?
 * Challenges
 * Interesting findings
+* Language used (optional)
 ## Example:
 * Goal: improving customer retention
 * More context: predict ETA for shipments
