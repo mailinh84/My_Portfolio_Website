@@ -32,4 +32,4 @@ This is for testing only, the link should be changed to the correct project
 Decribe about the project
 What data is used
 
-![](/Images/Price%20vs%20square%20feet.png)
+![](https://github.com/mailinh84/My_Portfolio_Website_Test/blob/main/Images/Growth%20pic.jfif)
