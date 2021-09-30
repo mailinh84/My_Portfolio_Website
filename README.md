@@ -4,8 +4,8 @@ Linh's data science projects
 
 
 # Project 1
-# Decribe about the project
-# What data is used
+* Decribe about the project
+* What data is used
 
 
 
