@@ -23,7 +23,7 @@ Continue by:
 * Non-technical challenges (project management, leadership,...)
 
 
- ![](/Images/Bedrooms.png)
+ ![](https://github.com/mailinh84/My_Portfolio_Website_Test/blob/main/Images/DA.jfif)
 
 
 
